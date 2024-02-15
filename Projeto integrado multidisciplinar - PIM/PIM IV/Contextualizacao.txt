@@ -1,0 +1,47 @@
+TEMA: 
+    Desenvolvimento de um software em linguagem C, que gerencie todas as tarefas de 
+cadastro e relatórios de uma start-up de soluções ambientais.
+
+
+OBJETIVO GERAL:
+    Baseado no conteúdo das disciplinas de Linguagem e Técnicas de Programação e Engenharia
+de Software I, o aluno do PIM deverá apresentar um sistema desktop em linguagem C que será
+utilizado pela start-up para gerenciar todas as tarefas de cadastro e relatórios de soluções
+ambientais de seus clientes.
+
+
+HISTÓRIA DA START-UP:
+    A start-up de soluções ambientais surgiu com o objetivo de cadastrar, mapear e gerenciar 
+indústrias que necessitam abater seu material particulado e gases da atmosfera provenientes 
+de seus processos de produção. 
+    O cadastro e relatórios gerados e enviados para seus clientes permitem, além de solicitações 
+de benefícios fiscais, que o governo possa mapear zonas com maiores e menores índices de 
+poluição produzidos por indústrias de médio e grande porte.
+    A atuação inicial da start-up era regional, entretanto, o número de contratos cresceu 
+exponencialmente, o que demandou a necessidade do desenvolvimento um sistema 
+computacional, que gerencie todas as suas tarefas de cadastro e relatórios.
+
+
+PROJETO:
+    Inicialmente, um profissional da start-up deve realizar o login no sistema (informando o 
+usuário e a senha) e cadastrar os dados da indústria cliente, como nome e dados do 
+responsável, nome da empresa, CNPJ, razão social, nome fantasia, telefone, endereço 
+(rua, número, bairro, cidade, estado e CEP), e-mail, data de abertura e dados relevantes 
+para cadastro. 
+    Mensalmente, um funcionário deve atualizar as quantidades de resíduos ambientais 
+tratados e valor estimado de custo. Todos os dados devem ser salvos em arquivos, e as 
+informações sensíveis dos usuários segundo a LGPD deverão ser criptografadas mesmo que 
+de forma simples.
+    Após o cadastro, o sistema deverá gerar relatórios referentes às atividades dos clientes, que 
+podem ser individualizadas, por exemplo, total de insumos tratados semestralmente, total de 
+gastos mensais etc; ou relatórios globais, por exemplo, em qual região estão localizadas as 
+indústrias que tratam de um maior volume de resíduos industriais, no último semestre, quais 
+as indústrias que menos produziram, qual o aporte financeiro semestral etc.
+
+
+IMPORTANTE:
+    Tela de login, tela de menu inicial com as opções para que os usuários do sistema possam 
+encontrar as informações de cadastro e consultas, relatórios e as áreas de gerenciamento. 
+    Telas de relatórios que deverão ser disponibilizados em tela e também a opção de salvar em 
+arquivo TXT.
+    Demais relatórios que forem necessários.
