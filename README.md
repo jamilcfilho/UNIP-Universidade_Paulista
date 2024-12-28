@@ -5,3 +5,7 @@
 ## Descrição
 
 Repositório destinado a exibir os projetos desenvolvidos durante minha graduação no curso de Análise e desenvolvimento de sistemas pela Universidade Paulista - UNIP. 
+
+### Tecnologias Utilizadas
+
+* [C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
