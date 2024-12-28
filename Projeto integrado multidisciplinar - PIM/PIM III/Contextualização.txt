@@ -1,0 +1,41 @@
+TEMA: 
+    Desenvolvimento e levantamento de análise de requisitos de um sistema de controle de vendas de uma 
+loja de jogos, acessórios e produtos geek.
+
+
+OBJETIVO GERAL:
+    Com base no conteúdo das disciplinas de Análise de Sistemas Orientada a Objetos, Banco 
+de Dados e Gestão Estratégica de Recursos Humanos, deverá ser apresentado o levantamento, o layout,
+os diagramas e a análise de requisitos de um sistema de controle de vendas de uma loja de jogos,
+acessórios e produtos geek.
+
+
+CONTEXTUALIZAÇÃO DO CASO:
+    Uma loja de venda de jogos eletrônicos, acessórios e produtos geek fechou um contrato 
+com uma empresa para o desenvolvimento de um software de controle e gerenciamento 
+de vendas de produtos e acessórios na área de jogos e cultura geek. Atualmente, as 
+pequenas tarefas gerenciadas para controlar vendas são manipuladas utilizando planilhas 
+em Excel.
+    Para atender o cliente, será desenvolvido um sistema desktop e, por isso, contratou-se 
+uma fábrica de software (grupo do PIM) para o desenvolvimento. Nessa fase, foi solicitada a 
+elaboração do levantamento de requisitos do sistema e pede-se que o sistema desenvolvido 
+para a plataforma desktop possua módulos de acessibilidade para que eventuais usuários 
+portadores de deficiência consigam utilizá-lo.
+    A empresa possui alguns produtos em estoque que, eventualmente por grau de raridade e 
+disponibilidade da plataforma de desenvolvimento dos jogos, não podem ser mais adquiridos 
+pelo cliente, tornando seu controle de venda um pouco mais rigoroso, pois alguns produtos, 
+após serem baixados do estoque, dificilmente poderão ser adquiridos por encomenda devido 
+ao seu grau de raridade (item exclusivo/de colecionador). No entanto, o foco é gerenciar as 
+vendas efetuadas ao cliente.
+
+
+PROJETO:
+    Foram apresentados o levantamento e a análise de requisitos de um sistema de controle de 
+vendas de uma loja de jogos, acessórios e produtos geek. Para o levantamento de funcionalidades, 
+foram considerados os itens para gerenciamento do sistema onde deverão ser realizados todos os 
+cadastros, as alterações, as consultas e as exclusões relacionadas com os produtos que serão 
+vendidos na loja. No sistema, deverão ser realizados também os cadastros dos clientes e o controle 
+de acesso ao sistema com níveis de login. 
+    Os seguintes aspectos foram considerados: desenvolvidas as atividades de elaboração de layouts
+e de diagramas da UML, utilizando ferramentas gratuitas para a conclusão dessa atividade contemplando
+o que foi aprendido nas disciplinas.

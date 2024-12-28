@@ -1,0 +1,40 @@
+TEMA: 
+    Desenvolvimento de programação orientada a objetos e projeto de interface para um sistema 
+de reserva de equipamentos.
+
+
+OBJETIVO GERAL:
+    Baseado no conteúdo das disciplinas de  Economia e Mercado, Engenharia de Software II, 
+Projeto de Interface com o Usuário e Programação Orientada a Objetos I, deverá ser apresentado
+um Projeto de um Sistema de reserva de equipamentos audiovisuais, que tem como propósito agilizar
+e controlar o empréstimo de equipamentos e recursos de apoio aos professores de colégios de 
+Ensino Fundamental e Médio.
+
+
+CONTEXTUALIZAÇÃO DO CASO:
+    Antigamente, para ministrar suas aulas, o professor utilizava apenas giz, lousa, livros e seu 
+conhecimento para apresentar o conteúdo de sua disciplina aos seus alunos. Considerando 
+o aumento de informações a serem apresentadas em cada disciplina, o comportamento 
+da nova geração dos alunos que são totalmente ligados à tecnologia e às ferramentas 
+de interação humano-computador, a área educacional está aderindo gradativamente na 
+utilização de ferramentas audiovisuais para apoiar a dinâmica das aulas dos colégios de 
+Ensino Fundamental e Médio.
+    O Colégio Vencer Sempre disponibiliza equipamentos de informática e vídeo (tais como 
+datashow, TV com VCR, TV com DVD, projetor de slides, sistemas de áudio/microfone, caixa 
+amplificada, notebooks, kits multimídia etc.), como ferramentas de apoio para aulas e 
+palestras, aos professores e coordenadores da instituição, alocando-os em salas de aula e 
+auditórios, a pedido antecipado dos colaboradores.
+    O sistema de reservas de empréstimo de equipamentos e recursos audiovisuais tem 
+como propósito agilizar e controlar o empréstimo de equipamentos e recursos de apoio aos 
+professores e dos demais colaboradores que necessitem utilizar os recursos mencionados.
+
+
+PROJETO:
+    Apresentado um sistema para reserva de equipamentos audiovisuais para um Colégio de 
+Ensino Fundamental e Médio, contemplando os seguintes itens e relacionamento com as disciplinas:
+    - Mapear agentes econômicos;
+    - Viabilidade econômica para a implantação do projeto;
+    - Propor requisitos funcionais, não-funcionais e de negócios;
+    - Metodologia da Norma MPS.br;
+    - Desenvolvimento de protótipos (layouts);
+    - Programação orientada a objetos.

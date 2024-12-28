@@ -1,0 +1,71 @@
+TEMA: 
+    Desenvolvimento de um sistema de streaming de conteúdo multimídia (diagramas).
+
+
+OBJETIVO GERAL:
+    Com base no conteúdo das disciplinas de Empreendedorismo, Gerenciamento de Projeto 
+de Software, Gestão da Qualidade e Projeto de Sistemas Orientado a Objetos, o aluno deverá 
+apresentar um projeto de um sistema de streaming de conteúdo multimídia online que tem como
+propósito facilitar o acesso e a distribuição de diversos tipos de conteúdo audiovisual, 
+proporcionando uma plataforma virtual na qual criadores de conteúdo podem disponibilizar 
+seus vídeos, músicas e podcasts, e os usuários podem acessá-los de forma rápida e prática.
+
+
+CONTEXTUALIZAÇÃO DO CASO:
+    O mundo contemporâneo tem testemunhado uma rápida evolução tecnológica, que tem 
+transformado significativamente a maneira como as pessoas se relacionam, comunicam-se  
+e, especialmente, como consomem entretenimento e informação. Nesse contexto, os 
+sistemas de streaming de conteúdo multimídia têm se destacado como uma das principais 
+tendências na internet, proporcionando um ambiente virtual no qual criadores de conteúdo 
+e consumidores podem interagir de forma direta e conveniente. Diferentemente de um 
+canal tradicional de televisão ou rádio, em que apenas um único provedor é responsável 
+pela transmissão dos programas, o sistema de streaming atua como um intermediário entre 
+diversos criadores e usuários, facilitando o acesso ao entretenimento e à informação.
+    Seja no segmento de filmes, séries, músicas, documentários, podcasts, entre outros, o 
+sistema de streaming proporciona uma vitrine virtual que permite que pequenos, médios e 
+grandes criadores de conteúdo alcancem um público maior e diversificado, expandindo seu 
+alcance de maneira escalável. No entanto, a criação de um sistema de streaming eficiente 
+e bem-sucedido não é uma tarefa trivial. Há diversos desafios a serem enfrentados, como a 
+concorrência acirrada no mercado, a necessidade de garantir a segurança e a qualidade das 
+transmissões, a oferta de uma experiência de usuário diferenciada, a criação de parcerias 
+com criadores de conteúdo e a gestão eficaz do catálogo de conteúdos disponíveis.
+    Um dos principais desafios enfrentados pelos criadores de conteúdo é a criação de 
+uma plataforma própria de distribuição, o que demanda investimentos significativos em 
+tecnologia, marketing e infraestrutura de rede. Além disso, alcançar visibilidade e atrair 
+uma base de usuários consistente também pode ser um obstáculo para o sucesso dos 
+criadores, especialmente em meio a uma concorrência acirrada no ambiente digital. Por outro 
+lado, os consumidores podem enfrentar dificuldades na busca por conteúdos específicos, 
+principalmente se desejam comparar diferentes opções de entretenimento e informação. 
+A falta de uma plataforma centralizada pode tornar o processo de busca mais demorado e 
+burocrático, podendo resultar em insatisfação e desistência por parte dos usuários.
+Dessa forma, o sistema de streaming de conteúdo multimídia surge como uma solução 
+promissora para atender às demandas tanto dos criadores quanto dos consumidores, criando 
+um ambiente virtuoso que beneficia ambas as partes. Por meio da plataforma, os criadores 
+podem disponibilizar seus conteúdos de maneira mais simples e eficiente, enquanto os 
+consumidores encontram uma grande variedade de opções em um só lugar, otimizando o 
+tempo de busca e a tomada de decisões de consumo. Outro aspecto relevante é a possibilidade 
+de integração de diferentes formas de pagamento e a garantia de segurança nas transações 
+e transmissões. Esses elementos são essenciais para gerar confiança nos usuários e incentivar 
+a utilização contínua da plataforma. Adicionalmente, a avaliação e os comentários dos 
+usuários sobre os conteúdos e criadores contribuem para a reputação e transparência do 
+sistema, reforçando a satisfação dos consumidores.
+    O mercado dos sistemas de streaming de conteúdo multimídia tem apresentado um 
+crescimento exponencial nos últimos anos. De acordo com relatórios de empresas de 
+pesquisa de mercado, a receita global gerada por plataformas de streaming ultrapassou 
+a marca de bilhões de dólares. A crescente preferência dos consumidores por acesso sob 
+demanda e a busca por conveniência impulsionaram esse fenômeno. Além disso, o modelo de 
+negócio de streaming tem se mostrado atraente para criadores de conteúdo, especialmente 
+independentes, que encontram na plataforma uma oportunidade de ampliar sua visibilidade 
+e alcance de público. A diversificação de categorias de conteúdo e a competição saudável 
+entre criadores têm sido fatores-chave para o sucesso contínuo desse mercado em  
+constante evolução.
+
+
+PROJETO:
+    Desenvolvimento de um projeto de sistema de streaming de conteúdo multimídia que tem como
+proósito facilitar o acesso e a distribuição de diversos tipos de conteúdo audiovisual, contemplando
+as seguintes atividades:
+    - Desenvolvimento de plano de negócios para a startup;
+    - Projeto de programação orientada a objetos;
+    - Frameworks ágeis;
+    - Processos de CD/CI garantindo a qualidade do software;
